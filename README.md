@@ -4,9 +4,13 @@ Nie nie będę robił readme po angielsku tak jak configi
 Opis wszystkiego pojawi się jutro albo pojutrze
 
 Narazie tylko wymagane repozytoria/aplikacje/wm do działania wzzystkiego:
+
 Compton 
+
 I3wm (polecam osobiście wersję i3-gaps z repo airblader)
+
 Feh
+
 I3 status 
 
 Można tego używać na dowolnym linuxie jako bazę,
