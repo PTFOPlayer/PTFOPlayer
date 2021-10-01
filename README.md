@@ -7,7 +7,7 @@ Nazwany przez moją dziewczynę "Tyfus" Mój wygląd window managera którego u�
 
 Opis wszystkiego pojawi się jutro albo pojutrze
 Narazie tylko wymagane repozytoria/aplikacje/wm do działania wzzystkiego:
-$ Compton 
+$ Compton \n
 $ I3wm (polecam osobiście wersję i3-gaps z repo airblader)
 $ Feh
 $ I3 status 
