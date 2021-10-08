@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm PTFOPlayer</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ptfoplayer&label=Profile%20views&color=0e75b6&style=flat" alt="ptfoplayer" /> </p>
+//<p align="left"> <img src="https://komarev.com/ghpvc/?username=ptfoplayer&label=Profile%20views&color=0e75b6&style=flat" alt="ptfoplayer" /> </p>
 
 - 🔭 I’m currently working on [MyI3WM](https://github.com/PTFOPlayer/MyI3WM)
 
