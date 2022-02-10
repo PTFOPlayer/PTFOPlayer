@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [MyI3WM](https://github.com/PTFOPlayer/MyI3WM)
 
-- 🌱 I’m currently learning **Shell, Bash, Cpp**
+- 🌱 I’m currently learning **Shell, Bash, Cpp, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PTFOPlayer](https://github.com/PTFOPlayer)
 
