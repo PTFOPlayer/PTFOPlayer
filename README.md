@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Whisky</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3
 
-- 🔭 I’m currently working on [MyI3WM](https://github.com/PTFOPlayer/MyI3WM)
-
-- 🌱 I’m currently learning **Shell, Bash, Cpp, Python**
+  - 🌱 I’m currently learning **Shell, Bash, Cpp, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PTFOPlayer](https://github.com/PTFOPlayer)
 
