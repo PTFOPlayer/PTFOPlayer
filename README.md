@@ -7,7 +7,6 @@
 
 - 📝 I regularly write articles on [https://t.me/+4W-hdQB4TKtlZTA0](https://t.me/+4W-hdQB4TKtlZTA0)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
