@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Whisky</h1>
 <h3 align="center">A passionate developer from Poland</h3>
 
-- 🌱 I’m currently learning **C++, Python, Shell, Bash**
+- 🌱 I’m currently learning **C++, Python, Shell, Bash, Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PTFOPlayer](https://github.com/PTFOPlayer)
 
