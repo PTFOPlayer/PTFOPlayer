@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PythonStatsApp](https://github.com/PTFOPlayer/PythonStatsApp-PYHW)
 
-- 🌱 I’m currently learning **C++, Python, JS, ReactT**
+- 🌱 I’m currently learning **C++, Python, JS, React**
 
 - 📝 I regularly write articles on [https://t.me/+4W-hdQB4TKtlZTA0](https://t.me/+4W-hdQB4TKtlZTA0)
 
