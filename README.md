@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Whisky</h1>
 <h3 align="center">A passionate developer From Poland</h3>
 
-- 🔭 I’m currently working on [PythonStatsApp](https://github.com/PTFOPlayer/PythonStatsApp-PYHW)
+- 🔭 I’m currently working on [Technews website](https://github.com/PTFOPlayer/technews)
 
 - 🌱 I’m currently learning **C++, Python, JS, React**
 
