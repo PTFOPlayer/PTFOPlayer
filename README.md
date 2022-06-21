@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ptfoplayer&show_icons=true&locale=en" alt="ptfoplayer" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ptfoplayer" alt="ptfoplayer" style="width:100%"/></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ptfoplayer" alt="ptfoplayer" /></a> </p>
