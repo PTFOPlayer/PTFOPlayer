@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Whisky</h1>
 <h3 align="center">A passionate developer From Poland</h3>
 
-- 🔭 I’m currently working on [Technews website](https://github.com/PTFOPlayer/technews)
+- 🔭 I’m currently working on Learing rust and then rewriting my projects in it
 
-- 🌱 I’m currently learning **C++, Python, JS, React**
+- 🌱 I’m currently learning **Rust**
 
-- 📝 I regularly write articles on [https://t.me/+4W-hdQB4TKtlZTA0](https://t.me/+4W-hdQB4TKtlZTA0)
 
 <p align="left">
 </p>
