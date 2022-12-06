@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Whisky</h1>
 <h3 align="center">A passionate developer From Poland</h3>
 
-- 🔭 I’m currently working on Learing rust and then rewriting my projects in it
+- 🔭 I’m currently working on learing rust and then rewriting my projects in it
 
 - 🌱 I’m currently learning **Rust**
 
