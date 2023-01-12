@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Whisky</h1>
 <h3 align="center">Developer from Poland</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ptfoplayer" alt="ptfoplayer" /></a> </p>
-
 - 🔭 I’m currently working on [screenpad_rs](https://github.com/PTFOPlayer/screenpad_rs)
 
 - 🌱 I’m currently learning **Rust**
@@ -25,3 +23,5 @@
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/WhiskyAKM"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/WhiskyAKM" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ptfoplayer&show_icons=true&theme=dark&hide_border=true&locale=en" alt="ptfoplayer" /></p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ptfoplayer" alt="ptfoplayer" /></a> </p>
