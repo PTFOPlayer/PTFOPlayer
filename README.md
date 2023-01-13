@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [screenpad_rs](https://github.com/PTFOPlayer/screenpad_rs)
 
-- 🌱 I’m currently learning **Rust**
-
 - 🔭 I’m currently working on [Discod-Programmers_Bot](https://github.com/PTFOPlayer/Discod-Programmers_Bot)
+
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PTFOPlayer](https://github.com/PTFOPlayer)
 
