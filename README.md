@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Whisky</h1>
 <h3 align="center">Developer from Poland</h3>
 
-- 🔭 I’m currently working on [screenpad_rs](https://github.com/PTFOPlayer/screenpad_rs)
-
-- 🔭 I’m currently working on [Discod-Programmers_Bot](https://github.com/PTFOPlayer/Discod-Programmers_Bot)
+- 🔭 I’m currently working on [screenpad_rs](https://github.com/PTFOPlayer/screenpad_rs) and [Discod-Programmers_Bot](https://github.com/PTFOPlayer/Discod-Programmers_Bot)
 
 - 🌱 I’m currently learning **Rust**
 
