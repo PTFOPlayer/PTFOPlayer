@@ -23,6 +23,6 @@
 <br/><br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PTFOplayer&show_icons=true&theme=radical&locale=en" alt="ptfoplayer" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PTFOplayer&layout=compact&theme=radical" alt="ptfoplayer" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PTFOplayer&layout=compact&theme=radical&langs_count=8" alt="ptfoplayer" /></p>
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ptfoplayer&theme=radical&margin-w=10" alt="ptfoplayer" /></a> </p>
