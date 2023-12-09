@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [screenpad_rs](https://github.com/PTFOPlayer/screenpad_rs) and [Discod-Programmers_Bot](https://github.com/PTFOPlayer/Discod-Programmers_Bot)
 
-- 🌱 I’m currently learning **Rust**
-
 - 👨‍💻 All of my projects are available at [https://github.com/PTFOPlayer](https://github.com/PTFOPlayer)
 
 - 💬 Ask me about **Rust stuff**
