@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Whisky</h1>
 <h3 align="center">Developer from Poland</h3>
 
-- 🔭 I’m currently working on [rocm_smi_lib](https://github.com/PTFOPlayer/rocm_smi_lib) and [hwi_rs](https://github.com/PTFOPlayer/hwi_rs)
+- 🔭 I’m currently working on [rocm_smi_lib](https://github.com/PTFOPlayer/rocm_lib) and [hwi_rs](https://github.com/PTFOPlayer/hwi_rs)
 
 - 👨‍💻 All of my projects are available at [https://github.com/PTFOPlayer](https://github.com/PTFOPlayer)
 
