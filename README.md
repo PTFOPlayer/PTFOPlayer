@@ -2,7 +2,7 @@
 <h3 align="center">Developer from Poland</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on rocm_smi_lib <br>👨‍💻 All of my projects are available at https://github.com/PTFOPlayer<br>🌱 I’m currently learning ...
+🔭 I’m currently working on rocm_smi_lib <br>👨‍💻 All of my projects are available at https://github.com/PTFOPlayer<br>🌱 I’m currently learning ROCM/HIP
 
 
 # 💻 Tech Stack:
